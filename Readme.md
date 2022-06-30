@@ -28,10 +28,6 @@ Execute os comando abaixo para a execução dos testes:
 npm run test:e2e
 ```
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Projetinho de estudos criado por Douglas G. Ferreira 
