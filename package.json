@@ -1,0 +1,25 @@
+{
+  "name": "playwright-nopcommerce",
+  "version": "1.0.0",
+  "description": "Treinando automação com Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test:e2e": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/douglasz10"
+  },
+  "keywords": [
+    "playwright",
+    "typescript",
+    "automação",
+    "testes",
+    "e2e"
+  ],
+  "author": "Douglas Gonçalves Ferreira",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.23.0"
+  }
+}
